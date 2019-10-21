@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASearchClosestPoints", "ASearchClosestPoints\ASearchClosestPoints.csproj", "{67297CA9-CB59-484A-823F-41503033D891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCancellingThreads", "BCancellingThreads\BCancellingThreads.csproj", "{B30ADB99-C6EE-4E38-8280-D2610658A603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67297CA9-CB59-484A-823F-41503033D891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67297CA9-CB59-484A-823F-41503033D891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67297CA9-CB59-484A-823F-41503033D891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67297CA9-CB59-484A-823F-41503033D891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30ADB99-C6EE-4E38-8280-D2610658A603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30ADB99-C6EE-4E38-8280-D2610658A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30ADB99-C6EE-4E38-8280-D2610658A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30ADB99-C6EE-4E38-8280-D2610658A603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFB8D0C-42BB-4D07-B935-354F77F7CB0A}
+	EndGlobalSection
+EndGlobal
