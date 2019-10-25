@@ -6,8 +6,8 @@ namespace ASearchClosestPoints
 {
     class Program
     {
-        const int inputDataSize = 1_000_000;
-        const int searchSize = 500;
+        const int inputDataSize = 50_000;
+        const int searchSize = 10_000;
 
         static void Main(string[] args)
         {
